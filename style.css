@@ -157,7 +157,7 @@ body {
 /* GRAPHIC DESIGN SECTION */
 .graphic-design { 
   background: #000000;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 .graphic-wrap { 
   width: 100%; 
@@ -184,7 +184,7 @@ body {
   grid-template-rows: auto 1fr;
   gap: 200px;
   align-items: center;
-  padding: 60px;
+  padding: 20px;
   background: #000000;
   color: white;
   min-height: 100vh;
