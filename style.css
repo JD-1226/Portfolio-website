@@ -157,7 +157,7 @@ body {
 /* GRAPHIC DESIGN SECTION */
 .graphic-design { 
   background: #000000;
-  padding: 20px 0;
+  padding: 0px 0;
 }
 .graphic-wrap { 
   width: 100%; 
@@ -177,6 +177,7 @@ body {
 .about { 
   background: #000000; 
   padding: 0px 0; 
+  margin-top: -30px;
 }
 .about .container {
   display: grid;
