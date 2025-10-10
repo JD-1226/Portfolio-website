@@ -419,6 +419,21 @@ body {
   transition: transform .18s ease, filter .18s ease;
 }
 
+.social-links .dwn-btn {
+  padding: 10px 20px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 1.1rem;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dwn-btn:hover {
+  border: 1px solid #FF0606;
+}
+
 /* CERDIT SECTION */
 .credits { 
   background: #000000; 
