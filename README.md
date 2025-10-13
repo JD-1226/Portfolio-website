@@ -64,6 +64,14 @@ This portfolio website was built to showcase the works, skills, and identity of 
 
 ---
 
+## 👨‍💻 Author  
+**Jeevanantham**  
+📧 [jeeva122603@gmail.com]  
+💼 [https://www.linkedin.com/in/jeevanantham-d-04494935a/]  
+💻 [https://github.com/JD-1226]
+
+---
+
 ## 🌟 Final Note
 
 This portfolio site is a living showcase of the fusion of design vision and web craftsmanship. It’s intended to be clean, fast, and memorable.
