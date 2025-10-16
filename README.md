@@ -68,7 +68,6 @@ This portfolio website was built to showcase the works, skills, and identity of 
 **Jeevanantham**  
 📧 [jeeva122603@gmail.com]  
 💼 [https://www.linkedin.com/in/jeevanantham-d-04494935a/]  
-💻 [https://github.com/JD-1226]
 
 ---
 
